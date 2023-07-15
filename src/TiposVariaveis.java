@@ -2,6 +2,6 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class TiposVariaveis {
     public static void main(String[] args) {
-        System.out.print("Ola Claudio");
+        System.out.print("Ola Claudio Schwambach");
     }
 }
